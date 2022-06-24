@@ -1,0 +1,135 @@
+/*�ۑ�pcss*/
+
+body{
+	background-color:#ffffff;
+	scrollbar-face-color: #ffffff;       /* �\�ʂ̐F */
+	scrollbar-3dlight-color: #e9e0d1;    /* ���[�Ə�[�̐F */
+	scrollbar-highlight-color: #ffffff;  /* �n�C���C�g�̐F */
+	scrollbar-shadow-color: #ffffff;     /* �e�̐F */
+	scrollbar-darkshadow-color: #e9e0d1; /* �E�[�Ɖ��[ */
+	scrollbar-arrow-color: #e9e0d1;      /* ���̐F */
+	scrollbar-track-color: #ffffff;     /* �o�[�̔w�i�̐F */
+}
+
+hr{
+	color:#656567; /* ���̐F(IE�p) */
+	background-color: #656567; /* ���̐F(NN�p) */
+	height:1px;
+	border:1px; /* �g�̑��� */
+	border-style:dotted; /* �g�̎�� */
+}
+
+h3{
+	color:#89100a;
+}
+
+a{
+	color:#656567;
+	font-size:10pt;
+	text-decoration:none;
+}	
+
+a:visited {
+	color:#ff0000;
+	font-size:10pt;
+	text-decoration:none;
+}
+
+a:active {
+	color:#0000ff;
+	font-size:10pt;
+	text-decoration:none;
+
+}
+
+a:hover {
+	color:#0000ff;
+	font-size:10pt;
+	text-decoration:none;
+}
+
+div.message{
+	font-size:9pt;
+	color:#ff0000;
+}
+
+.rsstitle{
+	color:#656567;
+	font-size:20pt;
+	text-decoration:none;
+}
+
+th.sunday{
+	font-size:10pt;
+	font-weight:bold;
+	color:#ff0033;
+	background-color:#e9e0d1;
+}
+
+th.saturday{
+	font-size:10pt;
+	font-weight:
+	bold;color:#0033ff;
+	background-color:#e9e0d1;
+}
+
+th.weekday{
+	font-size:10pt;
+	font-weight:normal;
+	color:#000000;
+	background-color:#e9e0d1;
+}
+
+td.sunday{
+	font-size:10pt;
+	font-weight:bold;
+	color:#ff0033;
+}
+
+td.saturday{
+	font-size:10pt;
+	font-weight:
+	bold;color:#0033ff;
+}
+
+td.weekday{
+	font-size:10pt;
+	font-weight:normal;
+	color:#000000;
+}
+
+td.today{
+	font-size:10pt;
+	font-weight:normal;
+	color:#000000;
+	background-color:#e9e0d1;
+}
+
+caption.title{
+	font-size:12pt;
+	font-weight:bold;
+	color:#656567;
+}
+
+.title{
+	color:#656567;
+	font-size:10pt;
+	text-decoration:none;
+}
+
+th.yotei{
+	font-size:10pt;
+	font-weight:bold;
+	color:#656567;
+	background-color:#e9e0d1;
+}
+
+td.yotei{
+	font-size:10pt;
+	font-weight:bold;
+	color:#656567;
+}
+
+div.contents {
+	margin-left: 10px;
+}
